@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Agnivesh
-- 👀 I'm kind of tech enthusiast guy
-- 🧠 I'm familiar with docker and kubernates. 
-- 🌱 I’m currently learning 'go programming language' 
-- 💞️ I’m looking to collaborate on docker and kubernates based projects. 
-- 📫 How to reach me agniveshvapi@gmail.com or on twitter @agnivesh_01
+# Tech Enthusiast | Open-Source
+I am an Electrical Engineering undergrad and a ***self taught developer***. I was exposed to technology in my 2nd year of college an by now, I am totally shifted towards Tech domain. I have understanding web development and am familiar with cloud technologies as well. I am a kind of person who prefer **collaboration** over competiotion and I love doing community work.
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=agniveshchaubey&show_icons=true&theme=tokyonight" 
+/>
